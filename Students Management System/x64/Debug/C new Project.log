@@ -1,0 +1,6 @@
+﻿  Courses.c
+  main.c
+  Students.c
+C:\Users\Muhammed\source\repos\C new Project\C new Project\Students.c(26,13): warning C4013: 'isdigit' undefined; assuming extern returning int
+  Generating Code...
+  C new Project.vcxproj -> C:\Users\Muhammed\source\repos\C new Project\x64\Debug\C new Project.exe
